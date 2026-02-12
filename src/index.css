@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --pink: #f8a4c8;
+  --pink-light: #fce4ec;
+  --pink-deep: #e91e63;
+  --red: #d32f2f;
+  --white: #ffffff;
+}
+
+body {
+  font-family: 'Playfair Display', Georgia, serif;
+  background-color: var(--pink);
+  color: var(--white);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
