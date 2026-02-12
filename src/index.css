@@ -20,7 +20,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow: hidden;
 }
 
 #root {
@@ -29,4 +28,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 2rem 0;
 }
