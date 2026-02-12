@@ -162,7 +162,7 @@ function App() {
               💖
             </div>
             <h1 className="celebration-text">Yay! Happy Valentine's Day!</h1>
-            <p className="celebration-subtext">I knew you'd say yes 💕</p>
+            <p className="celebration-subtext">I love you so much 💕</p>
             <p className="heart-hint">tap the heart for a surprise!</p>
 
             {/* GIF display area */}
